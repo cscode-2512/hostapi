@@ -1,0 +1,178 @@
+[
+    {
+        "id":"cs1.json",
+        "name":"iphoneX",
+        "company":"apple",
+        "price":6000000,
+        "colors":[
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image":"https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=cmpress&cs=tinysgb&w=1260&h=750&dpr=1",
+        "description":"Meet the iPhone X - the device that's so smart that it responds to a tap, your voice, and even a glance. Elegantly designed with a large 14.73 cm (5.8) Super Retina screen and a durable front-and-back glass, this smartphone is designed to impress. What's more, you can charge this iPhone wirelessly.",
+        "category":"mobile",
+        "featured":true,
+        "shipping":true
+    },
+
+    {
+        "id":"cs2",
+        "name":"Samsung S20",
+        "company":"Samsung",
+        "price":5000000,
+        "colors":[
+            "#000000",
+            "#22D3Ef"
+        ],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSOQYBg0WeoKsfA7u0tnT7rvYto4elZXiTkg&usqp=CAU",        
+        "description":"Say hello to the powerful and stylish Samsung Galaxy S20 Ultra smartphone. Featuring a 108 MP high-resolution camera with 100X Zoom, you can capture stunning photos like never before on this smartphone. It also comes with a long-lasting 5000 mAh battery so you can stay entertained for a long time. That's not all, the Samsung Galaxy S20 Ultra comes with the Infinity-O display and a seamless design, which makes it a must-have for all the gadget-enthusiasts",
+        "category":"mobile",
+        "shipping":true
+    },
+
+    {
+        "id":"cs3",
+        "name":"Nokia 420",
+        "company":"Nokia",
+        "price":200000,
+        "colors":[
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzjN9xaEacV5OjSQcn9AZDrs-pC4VNwwjAOA&usqp=CAU",        
+        "description":"Nokia All-New 105 Single Sim Keypad Phone with Built-in UPI Payments, Long-Lasting Battery, Wireless FM Radio | Charcoal",
+        "category":"mobile",
+        "shipping":true
+    },
+
+    {
+        "id":"cs4",
+        "name":"OnePlus Nord",
+        "company":"OnePlus",
+        "price":2800000,
+        "colors":[
+            "#000000",
+            "#22D3Ef"
+        ],
+        "image":"https://m.media-amazon.com/images/I/51Q+aeuXcBL._SY300_SX300_.jpg",    
+        "description":"Nokia All-New 105 Single Sim Keypad Phone with Built-in UPI Payments, Long-Lasting Battery, Wireless FM Radio | Charcoal",
+        "category":"mobile",
+        "shipping":true
+    },
+
+    {
+        "id":"cs5",
+        "name":"Dell Series",
+        "company":"Dell",
+        "price":4000000,
+        "colors":[
+            "#FFFFFF",
+            "#CDD0D0"
+        ],
+        "image":"https://m.media-amazon.com/images/I/419qXFbRCzL._SX300_SY300_QL70_FMwebp_.jpg",        
+        "description":"Dell Inspiron 3000 Series 3501 Laptop, 15.6 FHD Display, Intel Core i5-1135G7, 16GB DDR4 RAM, 1TB PCIe SSD, Webcam, WiFi, HDMI, SD Card Reader, Windows 11 Home, Black",
+        "category":"laptop",
+        "shipping":true
+    },
+
+    {
+        "id":"cs6",
+        "name":"MacBook Air",
+        "company":"apple",
+        "price":6999000,
+        "colors":[
+            "#CDD0D0",
+            "#FFD700"
+        ],
+        "image":"https://m.media-amazon.com/images/I/71TPda7cwUL._SX522_.jpg",        
+        "description":"Apple MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Silver",
+        "category":"laptop",
+        "shipping":true,
+        "featured":true
+    },
+    
+    {
+        "id":"cs7",
+        "name":"HP 15s",
+        "company":"HP",
+        "price":6999000,
+        "colors":[
+            "#000000"
+        ],
+        "image":"https://m.media-amazon.com/images/I/71fSS6dVWzL._SX522_.jpg",        
+        "description":"HP Laptop 15s, 11th Gen Intel Core i3-1115G4, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 512GB SSD, Intel UHD Graphics, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.69 kg), fq2673TU",
+        "category":"laptop",
+        "shipping":true
+    },
+    {
+        "id":"cs8",
+        "name":"Apple Watch Ultra 2",
+        "company":"apple",
+        "price":8999000,
+        "colors":[
+            "#000000",
+            "#FFFFFF"
+        ],
+        "image":"https://m.media-amazon.com/images/I/81i9ZukGs+L._SX466_.jpg",        
+        "description":"Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch with Rugged Titanium Case & Olive Alpine Loop Medium. Fitness Tracker, Precision GPS, Action Button, Extra-Long Battery Life, Bright Retina Display",
+        "category":"SmartWatch",
+        "shipping":true,
+        "featured":true
+    },
+    {
+        "id":"cs9",
+        "name":"Galaxy Watch4",
+        "company":"Samsung",
+        "price":1099000,
+        "colors":[
+            "#CDD0D0",
+            "#FFFFFF"
+        ],
+        "image":"https://rukminim2.flixcart.com/image/832/832/l26hdow0/smartwatch/j/r/o/1-4-sm-r870nzkainu-android-samsung-yes-original-imagdhf2ahk7nvmf.jpeg?q=70",        
+        "description":"SAMSUNG Watch 4, 44mmSuper AMOLED bluetooth calling function & body composition tracking  (Black Strap, Free Size)",
+        "category":"SmartWatch",
+        "shipping":true
+    },
+    {
+        "id":"cs10",
+        "name":"boAt Wave Primia",
+        "company":"boat",
+        "price":379900,
+        "colors":[
+            "#000000"
+        ],
+        "image":"https://d2xamzlzrdbdbn.cloudfront.net/products/1b012f32-40c4-427e-b4b3-a4737ddfb94e23071148_416x416.jpg",        
+        "description":"boAt Wave Primia Talk with 1.39 inch (3.53 cm) AMOLED display, Bluetooth Calling, SensAi, DIY Watchface Studio (Metallic Black)",
+        "category":"SmartWatch",
+        "shipping":true
+    },
+    {
+        "id":"cs11",
+        "name":"Airdopes 141a",
+        "company":"boat",
+        "price":169900,
+        "colors":[
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image":"https://m.media-amazon.com/images/I/61ars+VGPVL._SY355_.jpg",        
+        "description":"boAt Newly Launched Airdopes 141 ANC TWS Earbuds with 32 dB ANC, 42 HRS Playback, 50ms Low Latency Beast™ Mode, IWP™ Tech,Quad Mics with ENx™,ASAP™ Charge,USB Type-C Port & IPX5(Gunmetal Black)",
+        "category":"earbuds",
+        "shipping":true
+    },
+    {
+        "id":"cs12",
+        "name":" Galaxy Buds",
+        "company":"Samsung",
+        "price":169900,
+        "colors":[
+            "#000000",
+            "#FFD700"
+        ],
+        "image":"https://m.media-amazon.com/images/I/61nQvcDLeuL._SY355_.jpg",        
+        "description":"Samsung Galaxy Buds Live Bluetooth Truly Wireless in Ear Earbuds with Mic, Upto 21 Hours Playtime, Mystic Black",
+        "category":"earbuds",
+        "shipping":true
+    }
+]
